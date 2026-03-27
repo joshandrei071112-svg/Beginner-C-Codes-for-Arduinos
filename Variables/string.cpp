@@ -1,5 +1,5 @@
-char *myStrings[] = {"Josh", "Andrei", "F",
-                     "Dela Cruz", "From", "San Miguel Hagonoy Bulacan"};
+char *myStrings[] = {"Last Name", "First Name", "Middle Name",
+                     "Age", "From", "Place"};
 
     void setup() {
       Serial.begin(9600);
